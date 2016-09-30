@@ -9,5 +9,5 @@ public class ElementaryStudentDao extends StudentDao<ElementaryStudent>{
 	public static ElementaryStudentDao getInstance(){
 		return instance;   
 	} 
-	
+	  
 }
