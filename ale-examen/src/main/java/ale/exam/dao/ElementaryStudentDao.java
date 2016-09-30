@@ -10,5 +10,4 @@ public class ElementaryStudentDao extends StudentDao<ElementaryStudent>{
 		return instance;   
 	} 
 	
- 
 }
